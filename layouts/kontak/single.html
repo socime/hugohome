@@ -1,44 +1,6 @@
-<!DOCTYPE html>
-<html lang="id">
+{{ partial "head2" . }}
 
-<head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>Kontak kami - STID Sirnarasa</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
-    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-    <!-- Custom styles for this template -->
-    <link href="/css/clean-blog.min.css" rel="stylesheet">
-
-    <!-- Temporary navbar container fix -->
-    <style>
-    .navbar-toggler {
-        z-index: 1;
-    }
-    
-    @media (max-width: 576px) {
-        nav > .container {
-            width: 100%;
-        }
-    }
-    </style>
-
-</head>
-
-<body>
-
-{{ partial "nav" .}}
+{{ partial "nav2" . }}
 
     <!-- Page Header -->
     <header class="masthead" style="background-image:  linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.3)), url('/img/bunga.jpg')">
@@ -64,28 +26,28 @@
                     <div class="control-group">
                         <div class="form-group floating-label-form-group controls">
                             <label>Nama</label>
-                            <input type="text" class="form-control" placeholder="Nama" id="name" required data-validation-required-message="Silahkan masukan nama Anda.">
+                            <input name="Nama" type="text" class="form-control" placeholder="Nama" id="name" required data-validation-required-message="Silahkan masukan nama Anda.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="control-group">
                         <div class="form-group floating-label-form-group controls">
                             <label>Alamat Email</label>
-                            <input type="email" class="form-control" placeholder="Alamat Email" id="email" required data-validation-required-message="Silahkan masukan alamat email Anda.">
+                            <input name="Alamat Email" type="email" class="form-control" placeholder="Alamat Email" id="email" required data-validation-required-message="Silahkan masukan alamat email Anda.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Nomor Telpon/HP</label>
-                            <input type="tel" class="form-control" placeholder="Nomor Telpon/HP" id="phone" required data-validation-required-message="Silahkan masukan nomor telpon Anda.">
+                            <input name="Nomor HP" type="tel" class="form-control" placeholder="Nomor Telpon/HP" id="phone" required data-validation-required-message="Silahkan masukan nomor telpon Anda.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="control-group">
                         <div class="form-group floating-label-form-group controls">
                             <label>Pesan</label>
-                            <textarea rows="5" class="form-control" placeholder="Pesan" id="message" required data-validation-required-message="Silahkan masukan pesan Anda."></textarea>
+                            <textarea name="Pesan" rows="5" class="form-control" placeholder="Pesan" id="message" required data-validation-required-message="Silahkan masukan pesan Anda."></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
@@ -99,57 +61,4 @@
         </div>
     </div>
 
-    <hr>
-
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                    <ul class="list-inline text-center">
-                        <li class="list-inline-item">
-                            <a href="#">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="#">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="#">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                    </ul>
-                    <p class="copyright text-muted">STID Sirnarasa 2017</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="/vendor/jquery/jquery.min.js"></script>
-    <script src="/vendor/tether/tether.min.js"></script>
-    <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Contact Form JavaScript -->
-    <script src="/js/jqBootstrapValidation.js"></script>
-    <script src="/js/contact_me.js"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="/js/clean-blog.min.js"></script>
-
-</body>
-
-</html>
+{{ partial "footer2" . }}
