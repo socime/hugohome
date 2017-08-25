@@ -2,7 +2,7 @@
 title = "Tentang STID Sirnarasa"
 type = "tentang"
 page="/tentang.html"
-description = ""
+description = " Tentang STID Sirnarasa"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dolor arcu, dictum et justo eu, cursus hendrerit dolor. Pellentesque tellus odio, placerat sed ullamcorper non, bibendum non ante. Phasellus vulputate nibh vitae ultricies tempor. Donec vel malesuada nunc, ut sodales enim. Curabitur tempus vitae nulla vel suscipit. Aenean ullamcorper sem vel enim euismod, eu tincidunt tellus lacinia. Sed non leo erat. Ut eu magna ut sapien vehicula lacinia vel nec metus.
