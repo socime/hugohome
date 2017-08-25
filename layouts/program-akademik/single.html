@@ -1,30 +1,14 @@
-{{ partial "head2" . }}
+{{ partial "head2" . }} {{ partial "nav2" . }} {{ partial "header2" . }}
 
-{{ partial "nav2" . }}
-
-    <!-- Page Header -->
-    <header class="masthead" style="background-color: indigo">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                    <div class="post-heading text-center">
-                        <h1>{{ .Title }}</h1>
-                        <h2 class="subheading">Tahun ajaran 2015-2016</h2>
-                    </div>
-                </div>
+<!-- Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                {{ .Content }}
             </div>
         </div>
-    </header>
+    </div>
+</article>
 
-    <!-- Content -->
-    <article>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                    {{ .Content }}
-                </div>
-            </div>
-        </div>
-    </article>
-
-    {{ partial "footer2" .}}
+{{ partial "footer2" .}}

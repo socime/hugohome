@@ -1,16 +1,14 @@
-{{ partial "head" . }}
+{{ partial "head2" . }} {{ partial "nav2" . }} {{ partial "header2" . }}
 
-{{ partial "header" . }}
 
-{{ partial "nav" . }}
+<article>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+				<amp-img class="text-center" src="/img/new-classroom.jpg" width="900" height="506" layout="responsive"></amp-img><br> {{ .Content }}
+			</div>
+		</div>
+	</div>
+</article>
 
-<div class="container mt-3">
-<amp-img class="text-center" src="/img/new-classroom.jpg"
-  width="900" height="506" layout="responsive"></amp-img><br>
-	<h3>STID Sirnarasa</h3>
-	<p>
-		{{ .Content }}
-	</p>
-</div>
-
-{{ partial "footer" . }}
+{{ partial "footer2" . }}
