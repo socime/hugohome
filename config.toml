@@ -1,3 +1,5 @@
 baseURL = "/"
 languageCode = "id-id"
-title = "STID Sirnarasa"
+title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
+description = "Sekolah Tinggi Ilmu Dakwah Sirnarasa, Cisirri. Kampus Peradaban, Profesional Berakhlakul Karimah, Pesantren Mahasiswa Terpadu."
+image = "/img/graduation.jpg"

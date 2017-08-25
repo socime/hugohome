@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+
+{{ partial "header" . }}
+
+{{ partial "nav" . }}
+
+<div class="container mt-3">
+<amp-img class="text-center" src="/img/new-classroom.jpg"
+  width="900" height="506" layout="responsive"></amp-img><br>
+	<h3>Kurikulum STID Sirnarasa</h3>
+	<p>
+		{{ .Content }}
+	</p>
+</div>
+
+{{ partial "footer" . }}
