@@ -1,14 +1,9 @@
-{{ partial "head2" . }} {{ partial "nav2" . }} {{ partial "header2" . }}
+{{ partial "head2" . }} 
 
-<!-- Content -->
-<article>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                {{ .Content }}
-            </div>
-        </div>
-    </div>
-</article>
+{{ partial "nav2" . }} 
+
+{{ partial "header2" . }} 
+
+{{ partial "content" .}} 
 
 {{ partial "footer2" .}}
