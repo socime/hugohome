@@ -1,16 +1,33 @@
-{{ partial "head" . }}
+{{ partial "head2" .}}
 
-{{ partial "header" . }}
+{{ partial "nav2" . }}
 
-{{ partial "nav" . }}
+    <!-- Page Header -->
+    <header class="masthead" style="background-color: indigo">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                    <div class="post-heading text-center">
+                        <h1>{{ .Title }}</h1>
+                        <h2 class="subheading">Tahun ajaran 2015-2016</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
-<div class="container mt-3">
-<amp-img class="text-center" src="/img/new-classroom.jpg"
-  width="900" height="506" layout="responsive"></amp-img><br>
-	<h3>Kurikulum STID Sirnarasa</h3>
-	<p>
-		{{ .Content }}
-	</p>
-</div>
+ <!-- Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                    <p>
+                        {{ .Content }}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </article>
 
-{{ partial "footer" . }}
+
+    {{ partial "footer2" .}}
