@@ -1,17 +1,9 @@
 +++
 title = "Tentang STID Sirnarasa"
 type = "tentang"
-page="/tentang.html"
+page= "/tentang.html"
 description = " Tentang STID Sirnarasa"
+image = ""
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dolor arcu, dictum et justo eu, cursus hendrerit dolor. Pellentesque tellus odio, placerat sed ullamcorper non, bibendum non ante. Phasellus vulputate nibh vitae ultricies tempor. Donec vel malesuada nunc, ut sodales enim. Curabitur tempus vitae nulla vel suscipit. Aenean ullamcorper sem vel enim euismod, eu tincidunt tellus lacinia. Sed non leo erat. Ut eu magna ut sapien vehicula lacinia vel nec metus.
-
-Cras nec nunc laoreet, iaculis eros id, consequat sem. Nulla facilisi. Suspendisse vitae sem eu augue suscipit gravida. Fusce porta sed ex vitae pretium. Aenean rutrum aliquet dolor, a consectetur odio fermentum in. Sed vehicula ultrices justo et ultrices. Fusce consectetur est lacus, vitae sagittis lacus elementum nec. Ut quis facilisis ipsum. Aliquam orci velit, tempor in venenatis sit amet, ultricies quis magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean aliquam mauris metus, non sagittis augue vehicula non.
-
-### STID Sirnarasa is
-Suspendisse lorem magna, tincidunt sed lectus id, venenatis aliquam neque. Praesent rhoncus sollicitudin euismod. Nulla velit urna, bibendum nec vestibulum quis, dapibus vel odio. Maecenas vel sem suscipit, condimentum ex vel, efficitur arcu. Nullam posuere purus eu lorem rhoncus rutrum. Nulla a facilisis ipsum. Curabitur eros ante, ornare in suscipit a, efficitur et orci. Vivamus cursus turpis sit amet massa viverra porttitor.
-
-Sed eu interdum ligula. Nullam et nisi accumsan, finibus quam vitae, tincidunt lacus. Duis finibus elementum orci ut elementum. Donec auctor nunc ut gravida ornare. Ut porta egestas elit id convallis. Phasellus molestie sapien in ullamcorper suscipit. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi a massa convallis, egestas lectus sit amet, ultricies dolor. Sed pretium dignissim massa at molestie. Quisque vulputate, ante nec aliquam tempor, nulla orci ultricies nibh, ac dictum sem mauris nec purus. In vulputate varius ultricies. Fusce gravida quis magna sed congue. Sed eget semper metus, id consequat ex. Nulla facilisi. Mauris tincidunt turpis blandit neque euismod, nec dictum arcu varius.
-
-Integer eget justo eu eros venenatis bibendum. In turpis nunc, ultrices mollis ligula quis, consectetur posuere ex. Pellentesque consequat sapien a sem auctor bibendum. Morbi condimentum justo id lacus tincidunt sollicitudin. Ut nulla magna, lacinia mollis eleifend sit amet, gravida ac felis. Maecenas tristique est eu nisi accumsan porta. Mauris condimentum laoreet fringilla. Nulla molestie, est ac sodales placerat, erat neque dignissim velit, ut hendrerit quam mauris vitae nulla. Integer et neque eu mauris sodales rutrum. Curabitur rhoncus massa nisi, eu ornare sem cursus id. Mauris lorem magna, pulvinar ut sollicitudin malesuada, tincidunt finibus ex. Aenean a pharetra nisl, id rhoncus augue. Sed sit amet massa tempor, sagittis lectus in, interdum nunc. Phasellus metus turpis, efficitur sed scelerisque id, euismod at urna. Nunc condimentum nibh vel ante tincidunt, id scelerisque arcu faucibus. Aliquam sed neque nec velit euismod congue ac id augue.
+Kampus STID Sirnarasa terlahir dari cita-cita besar Abah Aos, Founder lembaga pendidikan Islam tradisional pesantren Sirnarasa dan penerima mandat pembinaan ikhwan TQN Pesantren Suryalaya sebelumnya. Visi tersebut adalah "TQN Suryalaya menyongsong peradaban dunia". Visi tersebut terintegrasi dan terinternalisasi di dalam tubuh STID Sirnarasa.
