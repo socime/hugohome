@@ -1,0 +1,58 @@
+---
+title: "Tenaga Pengajar"
+description: ""
+image:  
+---
+### Dosen/Tenaga Pengajar:
+1. Syuhudul Anwar, M.Ag.
+2. Wawan Gunawan S.Sn,MM.
+3. Dra. Dewi Khoer Mulyana, M,Si.
+4. Drs, H. Tauhid Maskur, M.Pd.
+5. H. Hasan Mud'is, M.Ag.
+6. Subhan, M,M.Pd
+7. Ucup Pathudin Al Maarif, M.Ag
+8. Dadang Muliawan, M.Sos.
+9. Ahmad Gojin, M.Ag.
+10. Feriyanto, M.Ag.
+11. Ilyas Suhendar, M.Ag.
+12. Aludin, M,Ag.
+13. Hermansyah, M. Ag.
+14. Eunis Khoerunisa, M.Ag.
+15. Yoyoh Wafiroh Noor, M,Ag.
+16. Lili, M.Pd.
+17. Atep Tatang, S.Pd. M.M.Pd.
+18. Witrin Noor Justiatini, M.Pd.
+19. Yudi Guntara, M.Ag.
+20. Novi Hidayati Afsari, M.Ag.
+21. Didin Solahudin, M.Sos.
+22. Imadudin Suargana, M.Pd.
+23. Subhan Firdaus, M.Sos.
+24. Danial Luthfi Al Mahzumi, M.Sos.
+25. Maman Usman, M.Sos.
+26. Muhammad Wildan Fauzan, M.Pd.
+27. Ucu Arif Hakim, MM.
+28. Sholih Anwar Saefurrijal, S.Sos.I.
+29. Uding Solehudin, S.Sos.I
+30. Dedeh Darliah, M.Si
+31. Ahmad Ramdan, S.Kom.I.
+32. Yandi Cahya Yuridani, S.Pd.
+33. Ah. Khairul Wafa, S.Sy.
+34. Yunia Rahmawati, S.Psi
+35. Deni Hendriyani Jumara, S.Pd.I
+36. Hanif Fuadi, M.Sos.
+
+### Dosen Tamu:
+1. Prof. Dr. H. Nasaruddin Umar, MA
+2. Prof. Dr. Muhammed Fadhel al-Jaelani
+3. Prof. Dr. H. Maksum Mukhtar
+4. Prof. Dr. H. Asep Saepul Muhtadi, MA
+5. Prof, Dr. H. Subandi
+6. Dr. H. Syukriyadi Syambas, Ma M.Si
+7. Dr. H. Reda Mantovani LL.M
+8. H. Priatno Martokoesoemo M. Ba
+9. Dr. Rusydi al-Wahabi
+10. Dr. H. Anwar Sanusi
+11. Dr. Hj. Fatmawati
+12. KH. Aminuddin M.Ag
+13. Drs. H. Ahmad Fathoni, M.Ag
+14. Irfan Zidny Sg, Mh, MSi
