@@ -1,4 +1,4 @@
 baseURL = "https://www.stidsirnarasa.ac.id/"
 languageCode = "id-id"
-title: "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
+title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 image = "/img/graduation.jpg"
