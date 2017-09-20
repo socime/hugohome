@@ -9,7 +9,7 @@ tags:
 categories:
     - Artikel
 
-image: ""
+image: -
 # Biodata Author
 aname: "Opik Jamaluddin"
 ahomepage: "/kontributor"

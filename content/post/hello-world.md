@@ -9,7 +9,7 @@ tags:
 categories:
     - Berita
 
-image: /img/pagisenja.jpg
+image: -
 aname: "Admin"
 ahomepage: "/admin"
 abio: "Laa Ilaha Illalloh..."

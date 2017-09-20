@@ -9,7 +9,7 @@ tags:
 categories:
     - Kajian
 
-image: /img/bunga.jpg
+image: -
 # Biodata Author
 aname: "Admin"
 ahomepage: "/kontributor"
