@@ -9,7 +9,7 @@ tags:
 categories:
     - Artikel
 
-image: -
+image: ""
 # Biodata Author
 aname: "Ahmad Ramdhan S.Kom.I"
 ahomepage: "/kontributor"
