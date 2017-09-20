@@ -41,9 +41,6 @@ a:hover {
     color: #9516b6
 }
 
-a img:focus,
-a img:hover {
-    cursor: zoom-in
 }
 
 blockquote {
@@ -636,3 +633,8 @@ footer {
 .google {
     background-color: #f63e28;
 }
+
+header.masthead > .overlay {
+    padding: 5rem 0;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html amp lang="id">
+<html lang="id">
 
 <head>
 
@@ -13,8 +13,13 @@
         {{ .Title }} - STID Sirnarasa
     </title>
     
-    <link rel="canonical" href="https://www.stidsirnarasa.ac.id{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}">
     <meta name="description" content="{{ .Description }}">
+
+    {{ template "_internal/schema.html" . }}
+    {{ template "_internal/google_news.html" . }}
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
@@ -26,13 +31,11 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/stid.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/prism.css">
 
     <!-- Temporary navbar container fix -->
    
-    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}.navbar-toggler {z-index: 1;}@media (max-width: 576px){nav>.container{width: 100%;}}.zhadow{box-shadow:0 3px 5px -1px rgba(0,0,0,.3),0 6px 10px 0 rgba(0,0,0,.28),0 1px 18px 0 rgba(0,0,0,.24)}.zhadowi{box-shadow:0 3px 5px -1px rgba(0,0,0,.2),0 6px 10px 0 rgba(0,0,0,.14),0 1px 18px 0 rgba(0,0,0,.12)</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}.navbar-toggler {
-            z-index: 1;
-        }
-
+    <style>
         @media (max-width: 576px) {
             nav>.container {
                 width: 100%;
@@ -44,7 +47,8 @@
         }
         .zhadowi {
             box-shadow:0 3px 5px -1px rgba(0,0,0,.2),0 6px 10px 0 rgba(0,0,0,.14),0 1px 18px 0 rgba(0,0,0,.12)
-        }</style></noscript>
+        }
+    </style>
 
 </head>
 

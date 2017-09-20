@@ -1,11 +1,24 @@
 {{ partial "head" . }}
 
-{{ partial "header" . }}
-
 {{ partial "nav" . }}
+
+<header class="masthead" style="background-color: indigo; {{ if .Params.image }}background-image: url('{{ .Params.image }}'){{ end }} no-repeat center center scroll;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <div class="site-heading">
+                    <h1>{{ .Title }}</h1>
+                    <span class="subheading">{{ .Description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 
 {{ partial "content" . }}
 
 {{ partial "social" . }}
 
 {{ partial "footer" . }}
+
+{{ partial "jsjs" . }}

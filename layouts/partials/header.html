@@ -1,4 +1,5 @@
-<header class="masthead" style="background-color: indigo; {{ if .Params.image }}background-image: url('{{ .Params.image }}'){{ end }} no-repeat center center scroll;">
+<header class="masthead" style="background-color: indigo;{{ if eq .Params.image "" }}/img/pagisenja.jpg{{else}}background-image: url('{{ .Params.image }}'){{end}}">
+    <div class="overlay">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
@@ -8,5 +9,6 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </header>

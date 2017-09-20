@@ -1,4 +1,16 @@
 baseURL = "https://www.stidsirnarasa.ac.id/"
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
-image = "/img/graduation.jpg"
+
+# Untuk deskripsi tag meta di homepage
+description = "Terwujudnya Perguruan Tinggi Dakwah berbasis riset dalam membentuk manusia yang sempurna (Insan Kamil) melalui pendidikan, penelitian, pengabdian yang berlandaskan nilai-nilai sufistik. "
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = ""
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "" 
+
