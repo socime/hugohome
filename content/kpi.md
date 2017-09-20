@@ -1,5 +1,6 @@
 ---
 title: "Prodi KPI"
+type: "page"
 description: "Komunikasi Penyiaran Islam"
 image:  
 ---

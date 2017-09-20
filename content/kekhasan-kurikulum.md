@@ -1,5 +1,6 @@
 ---
 title: "Kekhasan Kurikulum"
+type: "page"
 description: ""
 image:  
 ---

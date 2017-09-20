@@ -1,5 +1,6 @@
 ---
 title: "Visi Misi"
+type: "page"
 description: ""
 image:  
 ---

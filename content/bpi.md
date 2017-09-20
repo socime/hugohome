@@ -1,5 +1,6 @@
 ---
 title: "Prodi BPI"
+type: "page"
 description: "Bimbingan Penyuluhan Islam"
 image:  
 ---

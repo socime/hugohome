@@ -1,5 +1,6 @@
 ---
 title: "Tenaga Pengajar"
+type: "page"
 description: ""
 image:  
 ---
