@@ -1,4 +1,4 @@
-{{ partial "head2" . }}
+{{ partial "head" . }}
 
     <!-- Page Header -->
     <header class="masthead" style="background-color: indigo; {{ if .Params.image }}background-image: url('{{ .Params.image }}'){{ end }} rgba(36.37.38 .7)">
@@ -13,8 +13,8 @@
         </div>
     </header>
 
-{{ partial "nav2" . }}
+{{ partial "nav" . }}
 
 {{ partial "cards" . }}
 
-{{ partial "footer2" . }}
+{{ partial "footer" . }}

@@ -1,9 +1,8 @@
-+++
-title = "Program Akademik"
-type = "program-akademik"
-page="/program-akademik.html"
-description = ""
-+++
+---
+title: "Program Akademik"
+type: "page"
+description: "Program pendidikan di STID Sirnarasa adalah Program Sarjana (S1). Disinergikan dengan program-program unggulan Pesantren di asrama."
+---
 
 ### Akademik Terpadu Dengan Asrama
 Program pendidikan di STID Sirnarasa adalah Program Sarjana (S1). Disinergikan dengan program-program unggulan Pesantren di asrama. Sehingga, memungkinkan bagi mahasiswa untuk menumbuhkan leadership, entrepreneurship, kemandirian, kreatifitas, memperdalam keilmuan Islam, menguatkan aplikasi ilmu dakwah dan komunikasi serta aplikasi ilmu bimbingan dan penyuluhan secara aktual dan faktual.

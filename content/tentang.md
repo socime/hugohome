@@ -1,8 +1,7 @@
 +++
 title = "Tentang STID Sirnarasa"
-type = "tentang"
-page= "/tentang.html"
-description = " Tentang STID Sirnarasa"
+type = "page"
+description = "Tentang STID Sirnarasa"
 image = ""
 +++
 

@@ -1,8 +1,13 @@
-<header class="masthead" {{ if .Params.image }}style="background-image: url('{{ .Params.image }}')"{{ end }}>
-        <div class="overlay">
-            <div class="container">
-                <h1 class="display-3 text-warning">{{ .Title }}</h1>
-                <h3 class="display-5 text-warning">{{ .Description }}</h3>
+    <!-- Page Header -->
+    <header class="masthead" style="background-color: indigo; {{ if .Params.image }}background-image: url('{{ .Params.image }}'){{ end }} rgba(36.37.38 .7)">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                    <div class="post-heading text-center">
+                        <h1>{{ .Title }}</h1>
+                        <h3 class="subheading">{{ .Description }}</h3>
+                    </div>
+                </div>
             </div>
         </div>
     </header>
