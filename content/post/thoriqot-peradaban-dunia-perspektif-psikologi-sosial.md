@@ -1,6 +1,6 @@
 ---
 date: 2017-09-20T19:36:52+07:00
-title: "Thoriqot Peradaban Dunia; Perspektif Psikologi Sosial"
+title: "Thoriqot Peradaban Dunia"
 slug: thoriqot-peradaban-dunia-perspektif-psikologi-sosial
 
 tags:
@@ -17,6 +17,8 @@ abio: "Laa Ilaha Illalloh..."
 aimage: /img/kontributor/ahmad-ramdan.jpg
     
 ---
+
+### Thoriqot Peradaban Dunia; Perspektif Psikologi Sosial
 
 Dalam Ilmu Tassowuf, thoriqot merupakan salah satu bahasan pada perspektif praktis karena thoriqot lebih aplikatif. Sehingga pembahasannya pun semestinya tidak memerlukan kajian panjang. Seperti halnya ilmu fiqih, mengajarkan tentang thoharoh. Pembahasan cukup sampai tata cara teknis dan diakhiri dengan praktik berwudhu. Demikian halnya dengan thoriqot, seorang guru hanya membahas tentang tata cara dzikir atau metode dzikir dan diakhiri dengan talqin, yakni istilah pelatihan berdzikir itu sendiri secara teknis.
 
