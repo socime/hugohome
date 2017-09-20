@@ -7,9 +7,9 @@
                     <h1>{{ .Title }}</h1>
                     <span class="subheading">{{ .Description }}
                         
-                    </span><img src="{{ .Params.aimage }}" class="rounded-circle" width="32" height="32" />
+                    </span><img data-toggle="tooltip" data-placement="bottom" title="{{ .Params.aname }}" src="{{ .Params.aimage }}" class="rounded-circle" width="32" height="32" />
                         <a class="text-primary" href="{{ .Params.ahomepage }}">{{ .Params.aname }}</a> | <time>{{ .Date.Format "Jan, 02-01-2006" }}</time>
-                    {{ range .Params.categories }}
+                    <br>{{ range .Params.categories }}
                     <span class="badge badge-success">
                             <a class="text-white" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
                     </span> 

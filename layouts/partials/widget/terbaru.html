@@ -1,0 +1,21 @@
+<div class="widget mb-3 mt-3">
+        <div class="widget-content">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Kajian Terbaru</h4>
+                </div>
+                <div class="list-group list-group-flush">
+                    {{ range first 6 (where .Site.Pages "Type" "post") }}<a href="{{ .Permalink }}" class="list-group-item list-group-item-action flex-column align-items-start">
+                        
+                            <div class="col-12 col-xs-12">
+                                <img class="rounded img-fluid zhadowi" src="{{ if eq .Params.image "" }}/img/stid-thumbnail.png{{else}}{{ .Params.image }}{{end}}">
+                            </div>
+                            <div class="col-12 col-xs-12 pl-3">
+                                <p class="text-primary mb-1">{{ .Title }}</p>
+                                <small class="text-faded">{{ .Date.Format "Jan 2 ,2006" }} - Dibaca dalam {{ .ReadingTime }} menit.</small>
+                            </div>
+                    </a>{{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
