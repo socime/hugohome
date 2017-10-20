@@ -1,7 +1,7 @@
 ---
 date: 2017-09-20T18:47:49+07:00
-title: "Dampak Psikologis Ritual Suhbah Bersama Mursyid Syeikh Muhammad Abdul Gaos, SM Tharekat Qodiriyah Naqshabandiyah Pondok Pesantren Suryalaya"
-slug: Dampak-Psikologis-Ritual-Suhbah-Bersama-Mursyid-Syeikh-Muhammad-Abdul-Gaos
+title: "Dampak Psikologis Ritual Suhbah Bersama Abah Aos"
+slug: dampak-psikologis-ritual-suhbah-bersama-abah-aos
 
 tags:
     - Tasawuf
