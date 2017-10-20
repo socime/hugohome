@@ -13,7 +13,7 @@ image: ""
 aname: "Yunia Rohmawati Syawal Mihardja"
 ahomepage: "/kontributor"
 abio: "Laa Ilaha Illalloh..."
-aimage: /img/kontributor/yunia.jpg
+aimage: /img/kontributor/yunia.png
 ---
 
 Sebelum kita berbicara tentang dampak Psikologis, untuk yang pertama, ada baiknya kalau  kita kupas terlebih dahulu tentang bahasan apa itu Dampak. Menurut kepada Kamus Besar Bahasa Indonesia, Dampak itu yang pertama adalah benturan; kedua, Pengaruh kuat yang mendatangkan akibat (baik negatif maupun positif); ketiga, benturan yang cukup hebat antara dua benda sehingga menyebabkan perubahan yang berarti dalam momentum (pusa) system yang mengalami benturan itu. 
