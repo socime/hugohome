@@ -38,5 +38,5 @@ Nah dalam kajian judul ini yang kita shareing kan adalah Dampak Psikologis, menu
 2. Biologis. Sehat Jasmani, dari ujung rambut sampai ujung kaki senantiasa dalam keadaaan sehat, dalam artian kuat melakukan berbagai ibadah aktifitas, tidak mudah lelah, kulit nya bersih bersinar, bercahaya, hal ini akan berakibat kepada hasil yang sempurna.
 
 3. Kepribadian. Sisi karakter pribadinya akan selalu membuat sekitarnya merasa bahagia, karena kepribadiannya tepat sasaran, dalam artian mampu untuk bersikap bijaksana, mampu bersikap tegas disaat memang harus tegas, mampu menenangkan disaat memang harus lembut dalam bertindak, berhati-hati dan Waspada dalam berbicara dan berperilaku.
-    
- 4. Lingkungan Keluarga, Masyarakat, Bangsa dan Negara Kesatuan Republik Indonesia. Mampu menaati aturan baik di dalam lingkungan keluarga, Mampu bermasyarakat, berbangsa dan bernegara sesuai dengan aturan Pancasila.
+
+4. Lingkungan Keluarga, Masyarakat, Bangsa dan Negara Kesatuan Republik Indonesia. Mampu menaati aturan baik di dalam lingkungan keluarga, Mampu bermasyarakat, berbangsa dan bernegara sesuai dengan aturan Pancasila.
