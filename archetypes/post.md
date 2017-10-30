@@ -9,7 +9,7 @@ tags:
 categories:
     - Kajian
 
-image: -
+image: ""
 # Biodata Author
 aname: "Admin"
 ahomepage: "/kontributor"

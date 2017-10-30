@@ -28,4 +28,3 @@ Bahkan kadang bersama syekh pergi berdua menemui alloh. Disana mereka tak lama, 
 Keanehan yang terjadi bukan pada dunia, tanah, tumbuhan, pohon, batu, krikil, dedaunan, awan, langit, angin, dan semua yang ada di sekitarnya. Semua tak biasa, keanehan seringkali ia rasakan pada matanya, hidungnya, telinganya, tangan, dan kakinya, bahkan mulutnya. Semua indera yang ia miliki terkadang berubah.
 
 Memang pada awalnya, perubahan itu janggal, tangan jadi kaki, hidung jadi mulut, mata jadi telinga. Namun setelah sang syekh menjadi pembimbingnya yang berhasil menemukan diri darwis di alam sana, sang syekh menjadi semua indera bagi diri darwis. Semua dibuatnya janggal dan tak biasa. Apalagi tetangganya, mereka hampir putus kepala dari tubuhnya, namun darwis berhasil menyatukannya kembali. Bahkan ada yang hampir mati hingga akhirnya diakhirilah hidupnya oleh alloh atas kehendak darwis meskipun ia tidak tahu apa sebenarnya yang terjadi.
-‌
