@@ -9,12 +9,12 @@ tags:
 categories:
     - Kajian
 
-image: -
+image: ""
 # Biodata Author
 aname: "Aldi Muhammad Zaelani"
 ahomepage: "/kontributor"
 abio: "Laa Ilaha Illalloh..."
-aimage: https://cdn-images-1.medium.com/fit/c/60/60/1*IvQ3GwLmlthDsTuAaVcZZA.jpeg
+aimage: /favicon.png
     
 ---
 Konon ada seorang darwis yang dikenal oleh para guru sufi sebagai pelayan seorang syekh di wilayah utara. kesehariannya hampir tak luput dari kegiatan melayani syekh agung tersebut. 
