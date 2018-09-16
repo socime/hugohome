@@ -2,4 +2,48 @@
 label: New Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  label: Judul
+  name: title
+  config:
+    required: true
+- type: text
+  label: Deskripsi
+  name: description
+  config:
+    required: true
+- type: text
+  name: tags
+  label: Tags
+  config:
+    required: true
+- type: text
+  name: categories
+  label: Kategori
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Tanggal Terbit
+  config:
+    display_utc: true
+    required: true
+    date_format: DD/MM/YYYY
+- type: file
+  name: image
+  label: Gambar Atas
+- type: text
+  name: aname
+  label: Nama Penulis
+  config:
+    required: true
+- type: text
+  name: abio
+  label: Biodata Singkat Penulis
+  config:
+    required: true
+- type: file
+  name: aimage
+  label: Foto Penulis
+  description: foto harus kotak dan max. ukuran 250px x 250px ya Pak/Bu... :D
