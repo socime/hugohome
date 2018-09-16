@@ -1,39 +1,27 @@
+DisqusShortname = ""
+MetaDataFormat = "yaml"
 baseURL = "https://www.stidsirnarasa.ac.id/"
+description = "Terwujudnya Perguruan Tinggi Dakwah berbasis riset dalam membentuk manusia yang sempurna (Insan Kamil) melalui pendidikan, penelitian, pengabdian yang berlandaskan nilai-nilai sufistik. "
+googleAnalytics = ""
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
-
-# Untuk deskripsi tag meta di homepage
-description = "Terwujudnya Perguruan Tinggi Dakwah berbasis riset dalam membentuk manusia yang sempurna (Insan Kamil) melalui pendidikan, penelitian, pengabdian yang berlandaskan nilai-nilai sufistik. "
-
-# Agar front-matter pakai format YAML
-MetaDataFormat = "yaml"
-
-# Shortname disqus, silahkan sesuaikan
-DisqusShortname = ""
-
-# Untuk Google Analytic, silahkan sesuikan
-googleAnalytics = "" 
-
-[menu]
 [[menu.main]]
-    name = "Akademik"
-    url = "/akademik/"
-    weight = -110
-
+name = "Kontak"
+url = "/kontak/"
+weight = 5
 [[menu.main]]
-    name = "Program Studi"
-    url = "/program-studi/"
-    weight = -100
-
+name = "Tentang"
+url = "/tentang/"
+weight = 4
 [[menu.main]]
-    name = "Publikasi"
-    url = "/post/"
-    weight = -90
+name = "Publikasi"
+url = "/post/"
+weight = 3
 [[menu.main]]
-    name = "Tentang"
-    url = "/tentang/"
-    weight = -80
+name = "Program Studi"
+url = "/program-studi/"
+weight = 2
 [[menu.main]]
-    name = "Kontak"
-    url = "/kontak/"
-    weight = -70
+name = "Akademik"
+url = "/akademik/"
+weight = 1

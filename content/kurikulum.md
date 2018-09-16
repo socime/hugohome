@@ -1,9 +1,13 @@
 +++
+description = ""
 title = "Kurikulum STID Sirnarasa"
 type = "page"
-description = ""
-+++
+[menu.main]
+name = "Kurikulum"
+parent = "Akademik"
+weight = 1
 
++++
 Kurikulum di STID Sirnarasa menerapkan kurikulum yang digunakan di Universitas Islam Negeri kemudian diintegrasikan dengan muatan Tashowuf dan penguatan pada program keahlian Broadcasting dan Psykoterapi. Denganrincian kompetensi sebagai berikut:
 
 1. Kompetensi dasar; meliputi mata kuliah yang berkenaan dengan ilmu-ilmu keislaman dasar tentang al-Quran, Hadis, Fiqih. Tauhid, Tasawwuf, Filsafat Islam, dan Sejarah Islam. Selain itu ditambah dengan mata kuliah Bahasa Indonesia dan bahasa asing, serta Kewarganegaraan.

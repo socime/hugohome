@@ -1,10 +1,14 @@
 ---
-title: "Prodi BPI"
-type: "page"
-description: "Bimbingan Penyuluhan Islam"
-image:  
----
+title: Prodi BPI
+type: page
+description: Bimbingan Penyuluhan Islam
+image: 
+menu:
+  main:
+    weight: 1
+    parent: Program Studi
 
+---
 ### Profesi BPI
 
 1. Pembimbing-Konselor: Agama, Remaja, Keluarga sakinah, kerja/karir, sosial keagamaan, Sosial.

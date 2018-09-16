@@ -1,10 +1,14 @@
 ---
-title: "Prodi KPI"
-type: "page"
-description: "Komunikasi Penyiaran Islam"
-image:  
----
+title: Prodi KPI
+type: page
+description: Komunikasi Penyiaran Islam
+image: 
+menu:
+  main:
+    weight: 2
+    parent: Program Studi
 
+---
 ### Profesi KPI
 
 1. Khithabah (Diniyah dan Ta'siriyah): Mubaligh (ahli public speaking) dalam bidang khutbah dan ceramah keagamaan.
