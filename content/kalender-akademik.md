@@ -6,7 +6,7 @@ type = "kalender-akademik"
 [menu.main]
 name = "Kalender Akademik"
 parent = "Akademik"
-weight = 2
+weight = 1
 
 +++
 ![](/uploads/KALENDER AKADEMIK TAHUN AKADEMIK  2018 - 2019 04-5-18.jpg)

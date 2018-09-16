@@ -5,7 +5,7 @@ type = "page"
 [menu.main]
 name = "Kurikulum"
 parent = "Akademik"
-weight = 1
+weight = 2
 
 +++
 Kurikulum di STID Sirnarasa menerapkan kurikulum yang digunakan di Universitas Islam Negeri kemudian diintegrasikan dengan muatan Tashowuf dan penguatan pada program keahlian Broadcasting dan Psykoterapi. Denganrincian kompetensi sebagai berikut:
