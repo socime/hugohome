@@ -1,0 +1,21 @@
+{{ partialCached "head" . }}
+
+{{ partialCached "nav" . }}
+
+<header class="masthead" style="background-color: indigo; {{ if .Params.image }}background-image: url('{{ .Params.image }}'){{ end }} no-repeat center center scroll;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <div class="site-heading">
+                    <h1>Error 404, Halaman Tidak Ditemukan</h1>
+                    <span class="subheading">Halaman Tidak Ditemukan atau Telah dihapus</span>
+                    <a href="/" class="btn btn-light mt-5"><i class="fa fa-home" aria-hidden="true"></i> Kembali ke Beranda</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+{{ partialCached "footer" . }}
+
+{{ partialCached "jsjs" . }}

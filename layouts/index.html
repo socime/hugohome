@@ -39,7 +39,7 @@
 
 <body>
 
-{{ partial "nav" . }}
+{{ partialCached "nav" . }}
 
 <header class="masthead" style="background-color: indigo; {{ if .Params.image }}background-image: url('{{ .Params.image }}'){{ end }} no-repeat center center scroll;">
     <div class="container">
@@ -59,8 +59,8 @@
 
 {{ partial "card-grid" . }}
 
-{{ partial "footer" . }}
+{{ partialCached "footer" . }}
 
-{{ partial "jsjs" . }}
+{{ partialCached "jsjs" . }}
 
 </html>
