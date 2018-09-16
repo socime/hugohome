@@ -1,0 +1,37 @@
+---
+label: Halaman
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Judul Halaman
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Tanggal Terbit
+  config:
+    date_format: DD/MM/YYYY
+    display_utc: true
+    required: true
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  default: page
+  config:
+    required: true
+- type: text
+  name: description
+  label: Deskripsi
+  description: Tolong tuliskan deskripsi singkat mengenai halaman yang akan dibuat.
+  config:
+    required: true
+- type: file
+  label: Gambar
+  name: image
+  description: supaya gambar tampil bagus pada halaman web, sebaiknya menggunan proporsi
+    gambar landscape dengan ukuran yang di minimalisir (compressed image)
+  config:
+    maxSize: '3'
