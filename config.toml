@@ -6,6 +6,35 @@ googleAnalytics = ""
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 [[menu.main]]
+name = "Futsal"
+parent = "UKM"
+url = "#"
+weight = 5
+[[menu.main]]
+name = "Pramuka"
+parent = "UKM"
+url = "#"
+weight = 4
+[[menu.main]]
+name = "Bahasa"
+parent = "UKM"
+url = "#"
+weight = 3
+[[menu.main]]
+name = "Masalika"
+parent = "UKM"
+url = "#"
+weight = 2
+[[menu.main]]
+name = "Jurnalistik"
+parent = "UKM"
+url = "#"
+weight = 1
+[[menu.main]]
+name = "UKM"
+url = "https://ukm.stidsirnarasa.ac.id/"
+weight = 4
+[[menu.main]]
 name = "Publikasi"
 url = "/post/"
 weight = 3
