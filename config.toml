@@ -6,14 +6,6 @@ googleAnalytics = ""
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 [[menu.main]]
-name = "Kontak"
-url = "/kontak/"
-weight = 5
-[[menu.main]]
-name = "Tentang"
-url = "/tentang/"
-weight = 4
-[[menu.main]]
 name = "Publikasi"
 url = "/post/"
 weight = 3
