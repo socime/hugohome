@@ -14,4 +14,4 @@ Masalik merupakan satu kegiatan pecinta alam dan lingkungan  yang didalamnya ter
 
 Denga demikian UKM Masalik dalam setiap kegiatan pecinta alam selalu menanamkan kegiatan keagamaan "MANAQIB Mountain To Mountain" dengan tujuan tafakur dan mensyukuri nikmat Alloh SWT.
 
-Selamatkan laut dan gunung dengan sentuhan sentuhan ruhani melalui MANAQIB, alam butuh sentuhankasih sayang dan tidak ada lagi yang bisa memberikan kasih sayang kepada alam selain kita MASALIK.     
+Selamatkan laut dan gunung dengan sentuhan sentuhan ruhani melalui MANAQIB, alam butuh sentuhan kasih sayang dan tidak ada lagi yang bisa memberikan kasih sayang kepada alam selain kita MASALIK.     
