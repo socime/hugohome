@@ -3,7 +3,7 @@ title: Masalik For Manaqib
 date: 2018-10-08 11:17:53 +0000
 description: Unit Kegiatan Mahasiswa STID Sirnarasa
 image: "/uploads/cikuray.JPG"
-aname: Ahmad Ramdan
+aname: Rhama MCR
 abio: Pembina unit kegiatan jurnalistik
 aimage: "/uploads/IMG_20170714_212500_251.jpg"
 
