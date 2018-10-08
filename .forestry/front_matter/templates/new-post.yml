@@ -17,7 +17,7 @@ fields:
   name: categories
   label: Kategori
   config:
-    required: true
+    required: false
 - type: datetime
   name: date
   label: Tanggal Terbit
