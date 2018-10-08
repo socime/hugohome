@@ -5,7 +5,7 @@ description: Unit Kegiatan Mahasiswa STID Sirnarasa
 image: "/uploads/cikuray.JPG"
 aname: Ahmad Ramdan
 abio: Pembina unit kegiatan jurnalistik
-aimage: "/uploads/jpg.jpeg"
+aimage: "/uploads/IMG_20170714_212500_251.jpg"
 
 ---
 {{< youtube id="QqwUrXj92xE" autoplay="true" >}}
