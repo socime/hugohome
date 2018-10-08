@@ -42,5 +42,3 @@ fields:
   name: aimage
   label: Foto Penulis
   description: foto harus kotak dan max. ukuran 250px x 250px ya Pak/Bu... :D
-pages:
-- content/post/ukm.md
