@@ -10,4 +10,5 @@ abio: Pembina unit kegiatan jurnalistik
 aimage: "/uploads/jpg.jpeg"
 
 ---
-{{< youtube QqwUrXj92xE >}}
+
+{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
