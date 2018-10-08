@@ -9,3 +9,9 @@ aimage: "/uploads/jpg.jpeg"
 
 ---
 {{< youtube id="QqwUrXj92xE" autoplay="true" >}}
+
+Masalik merupakan satu kegiatan pecinta alam dan lingkungan  yang didalamnya terdapat kegiatan keagamaan yang menjadikan ciri khas dari mahasiswa STID Sirnarasa. nama Masalik merupakan pemberian dari pendiri STID Sirnarasa Syeikh. Muhammad Abdul Gaos Saefulloh Maslul QS. kata masalik diambil dari kata salik atau suluk orang yang sedang berjalan mengharap ridho Alloh SWT. 
+
+Denga demikian UKM Masalik dalam setiap kegiatan pecinta alam selalu menanamkan kegiatan keagamaan "MANAQIB Mountain To Mountain" dengan tujuan tafakur dan mensyukuri nikmat Alloh SWT.
+
+Selamatkan laut dan gunung dengan sentuhan sentuhan ruhani melalui MANAQIB, alam butuh sentuhankasih sayang dan tidak ada lagi yang bisa memberikan kasih sayang kepada alam selain kita MASALIK.     
