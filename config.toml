@@ -6,6 +6,11 @@ googleAnalytics = ""
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 [[menu.main]]
+name = "Jamiatul Quro"
+parent = "UKM"
+url = "#"
+weight = 6
+[[menu.main]]
 name = "Futsal"
 parent = "UKM"
 url = "#"

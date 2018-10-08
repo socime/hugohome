@@ -6,7 +6,7 @@ description: Program pendidikan di STID Sirnarasa adalah Program Sarjana (S1). D
 menu:
   main:
     name: Program
-    weight: 4
+    weight: 3
     parent: Akademik
 
 ---
