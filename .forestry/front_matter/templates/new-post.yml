@@ -12,12 +12,7 @@ fields:
   label: Deskripsi
   name: description
   config:
-    required: true
-- type: text
-  name: tags
-  label: Tags
-  config:
-    required: true
+    required: false
 - type: text
   name: categories
   label: Kategori
@@ -37,12 +32,12 @@ fields:
   name: aname
   label: Nama Penulis
   config:
-    required: true
+    required: false
 - type: text
   name: abio
   label: Biodata Singkat Penulis
   config:
-    required: true
+    required: false
 - type: file
   name: aimage
   label: Foto Penulis
