@@ -35,3 +35,5 @@ fields:
     gambar landscape dengan ukuran yang di minimalisir (compressed image)
   config:
     maxSize: '3'
+pages:
+- content/ukm.md
