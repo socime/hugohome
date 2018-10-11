@@ -4,15 +4,15 @@
 <head>
 
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
-    
-    <meta name="author" content="stidsirnarasa.ac.id">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="author" content="www.stidsirnarasa.ac.id">
     <link rel="icon" type="img/png" href="/favicon.png">
 
     <title>
         {{ .Title }} - STID Sirnarasa
     </title>
-    
+
     <link rel="canonical" href="{{ .Permalink }}">
     <meta name="description" content="{{ .Description }}">
 
@@ -21,33 +21,15 @@
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
 
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    
-    <!-- Custom fonts for this template -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+        rel='stylesheet' type='text/css'>
 
-    <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/stid.min.css" rel="stylesheet">
-
-    <!-- Temporary navbar container fix -->
-   
-    <style>
-        @media (max-width: 576px) {
-            nav>.container {
-                width: 100%;
-            }
-        }
-        
-        .zhadow {
-            box-shadow:0 3px 5px -1px rgba(0,0,0,.3),0 6px 10px 0 rgba(0,0,0,.28),0 1px 18px 0 rgba(0,0,0,.24)
-        }
-        .zhadowi {
-            box-shadow:0 3px 5px -1px rgba(0,0,0,.2),0 6px 10px 0 rgba(0,0,0,.14),0 1px 18px 0 rgba(0,0,0,.12)
-        }
-    </style>
 
 </head>
 

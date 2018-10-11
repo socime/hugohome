@@ -1,4 +1,4 @@
-<div class="widget mb-3 mt-3">
+<div class="widget mb-3">
         <div class="widget-content">
             <div class="card">
                 <div class="card-body">
@@ -8,7 +8,7 @@
                     {{ range first 6 (where .Site.Pages "Type" "post") }}<a href="{{ .Permalink }}" class="list-group-item list-group-item-action flex-column align-items-start">
                         
                             <div class="col-12 col-xs-12">
-                                <img class="rounded img-fluid zhadowi" src="{{ if eq .Params.image "" }}/img/stid-thumbnail.png{{else}}{{ .Params.image }}{{end}}">
+                                <img class="rounded img-fluid zhadowi" src='{{ if eq .Params.image "" }}/img/stid-thumbnail.png{{else}}{{ .Params.image }}{{end}}'>
                             </div>
                             <div class="col-12 col-xs-12 pl-3">
                                 <p class="text-primary mb-1">{{ .Title }}</p>

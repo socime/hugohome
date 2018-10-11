@@ -8,7 +8,7 @@ abio: Pembina unit kegiatan jurnalistik
 aimage: "/uploads/IMG_20170714_212500_251.jpg"
 
 ---
-{{< youtube id="QqwUrXj92xE" autoplay="true" >}}
+{{< yt id="QqwUrXj92xE">}}
 
 Masalik merupakan satu kegiatan pecinta alam dan lingkungan  yang didalamnya terdapat kegiatan keagamaan yang menjadikan ciri khas dari mahasiswa STID Sirnarasa. nama Masalik merupakan pemberian dari pendiri STID Sirnarasa Syeikh. Muhammad Abdul Gaos Saefulloh Maslul QS. kata masalik diambil dari kata salik atau suluk orang yang sedang berjalan mengharap ridho Alloh SWT. 
 

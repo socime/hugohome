@@ -5,6 +5,8 @@ description = "Terwujudnya Perguruan Tinggi Dakwah berbasis riset dalam membentu
 googleAnalytics = ""
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
+
+
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
