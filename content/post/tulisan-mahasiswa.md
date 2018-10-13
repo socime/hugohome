@@ -4,7 +4,6 @@ type: page
 date: 2018-10-13 09:29:59 +0700
 description: Antara Thoriqoh Dan Logika
 image: ''
-draft: true
 
 ---
 
