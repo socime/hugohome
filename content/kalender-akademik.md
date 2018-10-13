@@ -9,4 +9,4 @@ parent = "Akademik"
 weight = 1
 
 +++
-test
+![](/uploads/KALENDER AKADEMIK TAHUN AKADEMIK  2018 - 2019 04-5-18-1.jpg)
