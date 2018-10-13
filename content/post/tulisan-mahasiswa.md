@@ -7,7 +7,7 @@ image: ''
 
 ---
 
-**Antara thoriqoh dan logika** 
+**Antara Thoriqoh dan Logika** 
 
 Panji Putrawan Makalalag
 
