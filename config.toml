@@ -5,8 +5,14 @@ description = "Terwujudnya Perguruan Tinggi Dakwah berbasis riset dalam membentu
 googleAnalytics = ""
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
-
-
+[[menu.main]]
+name = "Jadwal Kuliah"
+parent = "Prodi KPI"
+weight = 1
+[[menu.main]]
+name = "Jadwal Kuliah"
+parent = "Prodi BPI"
+weight = 1
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
