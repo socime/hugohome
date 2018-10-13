@@ -36,4 +36,5 @@ fields:
   config:
     maxSize: '3'
 pages:
+- content/jadwal-kuliah.md
 - content/ukm.md
