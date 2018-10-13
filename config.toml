@@ -7,12 +7,8 @@ languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 [[menu.main]]
 name = "Jadwal Kuliah"
-parent = "Prodi KPI"
-weight = 1
-[[menu.main]]
-name = "Jadwal Kuliah"
-parent = "Prodi BPI"
-weight = 1
+parent = "Program Studi"
+weight = 3
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
