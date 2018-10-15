@@ -4,8 +4,12 @@ baseURL = "https://www.stidsirnarasa.ac.id/"
 googleAnalytics = ""
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
+theme = "stid"
 
-
+[[menu.main]]
+name = "Jadwal Perkuliahan"
+parent = "Program Studi"
+weight = 3
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
