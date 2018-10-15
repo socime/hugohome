@@ -14,23 +14,9 @@
             <p class="lead text-white">
               {{.Description | markdownify}}
             </p>
-            {{if .Params.btnLink}}
-            <div class="btn-container mt-5">
-              <a href="{{.Params.btnLink}}" class="btn bg-white px-4">
-                {{.Params.btnText}}
-              </a>
-            </div>
-            {{end}}
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
-<section class="py-5 bg-lighter border-top border-bottom" id="scrollToSection">
-    <div class="container">
-      <div class="d-flex align-items-center justify-content-center">
-        <span class="heading h4 ml-3 mb-0">{{.Params.ctaDaftar}} <a target="_blank" href="/pendaftaran">disini</a></span>
-      </div>
-    </div>
-  </section>

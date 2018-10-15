@@ -4,7 +4,7 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 slug: {{ .BaseFileName }}
 
 tags:
-    - Artikel
+- Artikel
 
 categories:
     - Kajian
