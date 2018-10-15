@@ -2,7 +2,9 @@
 title: Antara Thoriqoh dan Logika
 type: page
 date: 2018-10-13 09:29:59 +0700
-description: Tulisan Mahasiswa
+description: Manakah yang harus didahulukan dalam islam logika atau rasa? Sebelum
+  menjawab pertanyaan tersebut ada banyak permasalahan orang dalam beragama yang membawa
+  mereka ke jalan kemurtadan
 image: ''
 
 ---
