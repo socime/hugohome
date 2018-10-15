@@ -9,7 +9,7 @@ tags:
 categories:
     - Kajian
 
-image: "/img/perahu.jpg"
+image: "/img/perahu.jpeg"
 # Biodata Author
 aname: "Aldi Muhammad Zaelani"
 ahomepage: "/kontributor"
