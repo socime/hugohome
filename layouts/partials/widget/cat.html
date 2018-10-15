@@ -1,7 +1,6 @@
 {{ if isset .Site.Taxonomies "categories" }}
 {{ if not (eq (len .Site.Taxonomies.categories) 0) }}
-<div class="card card-block mb-3">
-  <h4 class="ml-3 card-title">Kategori</h4>
+  <h4>Kategori</h4>
   <div class="card-text">
     <div class="widget">
       <ul>
@@ -16,6 +15,5 @@
       </ul>
     </div>
   </div>
-</div>
 {{ end }}
 {{ end }}

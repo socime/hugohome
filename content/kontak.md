@@ -5,6 +5,4 @@ page="/kontak.html"
 description="Kirimi kami pesan, tentang apapun itu."
 +++
 
-
-
-{{% kontak %}}
+{{< kontak >}}

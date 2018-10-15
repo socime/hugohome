@@ -1,1 +1,43 @@
-{{ partial "kontak" . }}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 offset-lg-2 col-md-10 offset-md-1">
+            <p>Ingin menghubungi kami? Isi formulir di bawah ini untuk mengirimi kami pesan dan staff dari STID akan mencoba menghubungi Anda dalam waktu 24 jam!</p>
+            <p>Atau Anda juga dapat hubungi kami via telpon, ke <strong>(0265) 7510072</strong></p>
+            <form name="kontakPage" id="contactForm" novalidate netlify>
+                <div class="control-group">
+                    <div class="form-group floating-label-form-group controls">
+                        <label>Nama</label>
+                        <input name="Nama" type="text" class="form-control" placeholder="Nama" id="name" required data-validation-required-message="Silahkan masukan nama Anda.">
+                        <p class="help-block text-danger"></p>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="form-group floating-label-form-group controls">
+                        <label>Alamat Email</label>
+                        <input name="Alamat Email" type="email" class="form-control" placeholder="Alamat Email" id="email" required data-validation-required-message="Silahkan masukan alamat email Anda.">
+                        <p class="help-block text-danger"></p>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="form-group col-xs-12 floating-label-form-group controls">
+                        <label>Nomor Telpon/HP</label>
+                        <input name="Nomor HP" type="tel" class="form-control" placeholder="Nomor Telpon/HP" id="phone" required data-validation-required-message="Silahkan masukan nomor telpon Anda.">
+                        <p class="help-block text-danger"></p>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="form-group floating-label-form-group controls">
+                        <label>Pesan</label>
+                        <textarea name="Pesan" rows="5" class="form-control" placeholder="Pesan" id="message" required data-validation-required-message="Silahkan masukan pesan Anda."></textarea>
+                        <p class="help-block text-danger"></p>
+                    </div>
+                </div>
+                <br>
+                <div id="success"></div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Kirim</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

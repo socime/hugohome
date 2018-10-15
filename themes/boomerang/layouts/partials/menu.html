@@ -1,0 +1,38 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-indigo zhadow">
+        <div class="container">
+            <a class="navbar-brand" href="/"><img src="/favicon.png" width="30" height="30" class="d-inline-block align-top" alt="Sekolah Tinggi Ilmu Dakwah Sirnarasa"> STID Sirnarasa</a>
+            <button class="navbar-toggler" type="button" data-action="offcanvas-open" data-target="#navbar_main"
+                aria-controls="navbar_main" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse offcanvas-collapse" id="navbar_main">
+                <ul class="navbar-nav ml-auto align-items-lg-center">
+                    {{ $currentPage := . }}
+              <ul class="navbar-nav ml-auto">
+                  {{ range .Site.Menus.main }}
+                      {{ if .HasChildren }}
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="{{.URL}}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                    aria-expanded="false">
+                      {{ .Pre }}
+                      <span>{{ .Name }}</span>
+                        </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      {{ range .Children }}
+                    <a class="dropdown-item" href="{{.URL}}">{{.Name}}</a>
+                      {{ end }}
+                  </div>
+                </li>
+                {{else}}
+                <li class="nav-item">
+                  <a class="nav-link" href="{{.URL}}">
+                    {{ .Pre }}
+                      <span>{{ .Name }}</span>
+                  </a>
+                </li>
+                  {{end}}
+                {{end}}
+                </ul>
+            </div>
+        </div>
+    </nav>

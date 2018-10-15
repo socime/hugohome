@@ -1,0 +1,39 @@
+{{ define "main"}}
+<div class="container mb-5 mt-5">
+    <div class="row">
+        <div class="col-sm-12 col-lg-8 mb-5 card zhadowi">
+            <article>
+                <div class="">
+                   <div class="card-body p-md-5">
+                        
+                       <div class="post-header mb-5">
+                            
+                            <div class="mb-3">
+                                <small class="badge badge-dark">sekitar {{ .ReadingTime }} menit membaca</small>
+                            </div>
+                                <div>
+                                        {{ range .Params.tags }}
+                                        <span class="badge badge-primary">
+                                                #<a class="text-white" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>
+                                        </span> 
+                                        {{ end }}
+                                    </div>
+
+                        </div>
+                        <div class="post-content">
+                            {{ .Content }}
+                        </div>
+                        <div class="post-footer">
+                            {{ partial "disqus.html" . }}
+                        </div>
+                    </div>
+                </div>
+            </article>
+            </div>
+
+            <div class="col-sm-12 col-lg-4">
+               {{ partial "aside.html" . }}
+            </div>
+    </div>
+</div>
+{{end}}
