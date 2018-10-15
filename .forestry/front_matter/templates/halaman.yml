@@ -36,4 +36,5 @@ fields:
   config:
     maxSize: '3'
 pages:
+- content/post/tulisan-mahasiswa.md
 - content/ukm.md
