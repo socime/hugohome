@@ -3,21 +3,20 @@ label: New Post
 hide_body: false
 is_partial: false
 fields:
+- type: file
+  name: image
+  label: Gambar Atas
 - type: text
   label: Judul
   name: title
   config:
     required: true
-- type: text
-  label: Deskripsi
+- type: textarea
   name: description
+  label: Deskripsi
+  description: tulis rangkuman tulisan disini
   config:
-    required: false
-- type: text
-  name: categories
-  label: Kategori
-  config:
-    required: false
+    required: true
 - type: datetime
   name: date
   label: Tanggal Terbit
@@ -25,9 +24,11 @@ fields:
     display_utc: true
     required: true
     date_format: DD/MM/YYYY
-- type: file
-  name: image
-  label: Gambar Atas
+- type: text
+  name: categories
+  label: Kategori
+  config:
+    required: false
 - type: text
   name: aname
   label: Nama Penulis
@@ -42,3 +43,8 @@ fields:
   name: aimage
   label: Foto Penulis
   description: foto harus kotak dan max. ukuran 250px x 250px ya Pak/Bu... :D
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  default: post
