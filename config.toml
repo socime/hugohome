@@ -3,13 +3,8 @@ MetaDataFormat = "yaml"
 baseURL = "https://www.stidsirnarasa.ac.id/"
 googleAnalytics = "UA-92294913-1"
 languageCode = "id-id"
-title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 theme = "stid"
-
-[[menu.main]]
-name = "Jadwal Perkuliahan"
-parent = "Program Studi"
-weight = 3
+title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
@@ -26,6 +21,10 @@ parent = "UKM"
 url = "#"
 weight = 4
 [[menu.main]]
+name = "Jadwal Perkuliahan"
+parent = "Program Studi"
+weight = 3
+[[menu.main]]
 name = "Bahasa"
 parent = "UKM"
 url = "#"
@@ -38,7 +37,7 @@ weight = 2
 [[menu.main]]
 name = "Jurnalistik"
 parent = "UKM"
-url = "#"
+url = "http://jurnalistik.stidsirnarasa.ac.id"
 weight = 1
 [[menu.main]]
 name = "UKM"
