@@ -1,4 +1,4 @@
-<header class="masthead" style="background-color: indigo;{{ if eq .Params.image "" }}/img/pagisenja.jpg{{else}}background-image: url('{{ .Params.image }}'){{end}}">
+<header class="masthead" style="background-color: indigo;{{ if eq .Params.image 0 }}/img/pagisenja.jpg{{else}}background-image: url('{{ .Params.image }}'){{end}}">
     <div class="overlay">
     <div class="container">
         <div class="row">
@@ -6,9 +6,9 @@
                 <div class="site-heading">
                     <h1>{{ .Title }}</h1>
                     <span class="subheading">{{ .Description }}
-                        
-                    </span><img data-toggle="tooltip" data-placement="bottom" title="{{ .Params.aname }}" src="{{ .Params.aimage }}" class="rounded-circle" width="32" height="32" />
-                        <a class="text-primary" href="{{ .Params.ahomepage }}">{{ .Params.aname }}</a> | <time>{{ .Date.Format "Jan, 02-01-2006" }}</time>
+                    </span>
+                    <img data-toggle="tooltip" data-placement="bottom" title="{{ .Params.aname }}" src="{{ .Params.aimage }}" class="rounded-circle" width="32" height="32" />
+                        <a class="text-primary" href='{{if eq .Params.ahomepage "" }}/kontributor{{else}}{{ .Params.ahomepage }}{{end}}'>{{ .Params.aname }}</a> | <time>{{ .Date.Format "Jan, 02-01-2006" }}</time>
                     <br>{{ range .Params.categories }}
                     <span class="badge badge-success">
                             <a class="text-white" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>

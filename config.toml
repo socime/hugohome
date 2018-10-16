@@ -1,7 +1,7 @@
 DisqusShortname = ""
 MetaDataFormat = "yaml"
 baseURL = "https://www.stidsirnarasa.ac.id/"
-googleAnalytics = ""
+googleAnalytics = "UA-92294913-1"
 languageCode = "id-id"
 title = "Sekolah Tinggi Ilmu Dakwah Sirnarasa"
 theme = "stid"
