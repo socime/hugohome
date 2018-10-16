@@ -6,11 +6,11 @@ description: Manakah yang harus didahulukan dalam islam logika atau rasa? Sebelu
   menjawab pertanyaan tersebut ada banyak permasalahan orang dalam beragama yang membawa
   mereka ke jalan kemurtadan
 image: ''
+categories: 
+- Tulisan Mahasiswa
+aname: Panji Putrawan Makalalag
 
 ---
-**Antara Thoriqoh dan Logika**
-
-Panji Putrawan Makalalag
 
 Manakah yang harus didahulukan dalam islam logika atau rasa? Sebelum menjawab pertanyaan tersebut ada banyak permasalahan orang dalam beragama yang membawa mereka ke jalan kemurtadan dan tidak sedikit diantara mereka adalah insan akademis dan juga ada diantara mereka yaitu orang-orang yang tidak memiliki pemahaman yang cukup mengenai islam sehingga gampang dipengaruhi.
 
@@ -32,4 +32,4 @@ Maka dapat disimpulkan bahwa salah satu bukti dari keberadaan Allah adalah kita 
 
 Mempelajari logika sangatlah penting dalam memperdalam pengetahuan kita tentang agama yang penting kita tahu batasan-batasanny dan yang paling utama adalah kita memiliki landasan, fondasi, dan tiang iman yang kokoh  dan hal tersebut tidak mungkin didapatkan hanya melalui logika karena logika bisa saja diacak-acak oleh manusia, akan tetapi hal tersebut harus diperoleh dari rasa kita akan keberadaan Allah dan bicara soal rasa, sudah pasti bicara soal Ihsan, dan ihsan hanya dapat didalami melalui pembelajaran Tashowwuf, dan Tashowwuf, hanya bisa diaplikasikan melalui Thoriqoh, dan dalam pengamalan Thoriqoh sudah pasti tidak akan lepas dari dzikrulloh.
 
-Dan apabila kita sudah mempelajari Tashowwuf dan Mengamalkan Thoriqoh maka sehebat apapun orang mengacak-acak logika kita tentang kebenaran dan keberadaan Allah maka mereka tidak akan mampu mengacak-acak keimanan kita kepada Allah karena kita sudah merasakan keberadaan dan kebenaran Allah Ta’ala
+Dan apabila kita sudah mempelajari Tashowwuf dan Mengamalkan Thoriqoh maka sehebat apapun orang mengacak-acak logika kita tentang kebenaran dan keberadaan Allah maka mereka tidak akan mampu mengacak-acak keimanan kita kepada Allah karena kita sudah merasakan keberadaan dan kebenaran Allah Ta’ala.
