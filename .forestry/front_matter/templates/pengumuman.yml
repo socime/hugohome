@@ -1,0 +1,31 @@
+---
+label: Pengumuman
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Judul Pengumuman
+  name: title
+  description: Tuliskan judul pengumuman disini
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Deskripsi
+  description: Ringkasan pengumuman untuk mesin pencari
+  config:
+    required: true
+- type: datetime
+  label: Tanggal
+  name: tanggal
+  description: tanggal publikasi pengumuman
+  config:
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
+    display_utc: true
+    required: true
+- type: text
+  default: pengumuman
+  label: type
+  name: type
+  hidden: true
