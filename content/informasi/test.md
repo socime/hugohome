@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: "2018-10-16T03:03:26+07:00"
-type: "pengumuman"
+type: "informasi"
 description: "percobaan pengumuman"
 image:  
 ---

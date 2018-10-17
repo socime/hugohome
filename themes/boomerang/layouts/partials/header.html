@@ -2,16 +2,16 @@
 {{ partial "menu" .}}
 
 <section class="slice slice-lg bg-tertiary bg-cover bg-size--contain" style="background-image: url('/img/backgrounds/img-1.jpg'); background-position: center 10%;">
-  <span class="mask bg-indigo alpha-7"></span>
+  <span class="mask bg-transparent alpha-7"></span>
   <div class="container text-center">
     <div class="row cols-xs-space cols-sm-space cols-md-space">
       <div class="col-12">
-        <h2 class="heading text-white h1 strong-600">
+        <h2 class="heading text-dark h1 strong-600">
           {{.Title}}
         </h2>
         <div class="row justify-content-center mt-4">
           <div class="col-lg-8">
-            <p class="lead text-white">
+            <p class="lead text-dark">
               {{.Description | markdownify}}
             </p>
           </div>
