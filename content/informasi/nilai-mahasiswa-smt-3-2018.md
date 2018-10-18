@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Nilai Mahasiswa/i Semester III 10/2018"
 date: "2018-10-16T03:03:26+07:00"
 type: "informasi"
 description: "percobaan pengumuman"
