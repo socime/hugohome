@@ -1,11 +1,12 @@
 ---
-label: New Post
+label: Publikasi
 hide_body: false
 is_partial: false
 fields:
 - type: file
   name: image
   label: Gambar Atas
+  default: ""
 - type: text
   label: Judul
   name: title
@@ -27,11 +28,13 @@ fields:
 - type: text
   name: categories
   label: Kategori
+  default: Artikel
   config:
     required: false
 - type: text
   name: aname
   label: Nama Penulis
+  Default: STID Sirnarasa
   config:
     required: false
 - type: text
@@ -42,7 +45,8 @@ fields:
 - type: file
   name: aimage
   label: Foto Penulis
-  description: foto harus kotak dan max. ukuran 250px x 250px ya Pak/Bu... :D
+  default: /favicon.png
+  description: foto harus kotak dan max. ukuran 100px x 100px ya Pak/Bu... :D
 - type: text
   name: type
   label: Type

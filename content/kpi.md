@@ -2,7 +2,7 @@
 title: Prodi KPI
 type: page
 description: Komunikasi Penyiaran Islam
-image: 
+image: ""
 menu:
   main:
     weight: 2

@@ -3,7 +3,7 @@ title: "Kontributor"
 date: "2017-09-20T21:35:39+07:00"
 type: "page"
 description: "Kontributor untuk Publikasi STID Sirnarasa Cisirri."
-image:  
+image: ""
 ---
 
 1. Ahmad Ramdan

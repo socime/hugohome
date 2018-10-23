@@ -2,7 +2,7 @@
 title: "Kekhasan Kurikulum"
 type: "page"
 description: "Kurikulum di STID Sirnarasa menerapkan kurikulum yang digunakan di Universitas Islam Negeri kemudian di integrasikan dengan muatan Tashowuf dan penguatan pada program keahlian Broadcasting dan Guidance Counseling."
-image:  
+image: ""
 ---
 
 *Dengan rincian kompetensi sebagai berikut;*

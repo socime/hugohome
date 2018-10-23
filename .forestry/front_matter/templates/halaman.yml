@@ -31,6 +31,7 @@ fields:
 - type: file
   label: Gambar
   name: image
+  default: ""
   description: supaya gambar tampil bagus pada halaman web, sebaiknya menggunan proporsi
     gambar landscape dengan ukuran yang di minimalisir (compressed image)
   config:

@@ -1,12 +1,12 @@
 ---
-label: Pengumuman
+label: Acara/Kegiatan
 hide_body: false
 is_partial: false
 fields:
 - type: text
-  label: Judul Pengumuman
+  label: Judul Acara/Kegiatan
   name: title
-  description: Tuliskan judul pengumuman disini
+  description: Tuliskan judul acara/kegiatan disini
   config:
     required: true
 - type: file
@@ -20,20 +20,20 @@ fields:
 - type: textarea
   name: description
   label: Deskripsi
-  description: Ringkasan pengumuman untuk mesin pencari
+  description: Ringkasan acara/kegiatan untuk mesin pencari
   config:
     required: true
 - type: datetime
   label: Tanggal
   name: tanggal
-  description: tanggal publikasi pengumuman
+  description: tanggal publikasi acara/kegiatan
   config:
     date_format: DD/MM/YYYY
     time_format: hh:mm
     display_utc: true
     required: true
 - type: text
-  default: pengumuman
+  default: event
   label: type
   name: type
   hidden: true

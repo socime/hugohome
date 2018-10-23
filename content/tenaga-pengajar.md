@@ -2,7 +2,7 @@
 title: Tenaga Pengajar
 type: page
 description: ''
-image: 
+image: ""
 
 ---
 ### Dosen/Tenaga Pengajar:

@@ -1,100 +1,8 @@
 {{ define "main"}}
 {{partial "home-posts" . }}
 
-<section class="slice slice-lg" data-delimiter="1">
-  <div class="container">
-    <div class="row cols-xs-space cols-sm-space align-items-center">
-      <div class="col-md-6">
-        <img src="/img/prv/img-1-1000x900.jpg" class="img-center img-fluid rounded z-depth-3">
-      </div>
-      <div class="col-md-6 col-lg-5 ml-lg-auto">
-        <div class="pr-md-4">
-          <h3 class="heading h3">
-            All the features you need for a professional website
-          </h3>
-          <p class="lead text-gray mt-4">With Boomerang UI you get components and examples, including tons of variables
-            that will help you customize this theme with ease.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="slice slice-lg" data-delimiter="1">
-  <div class="container">
-    <div class="mb-md text-center">
-      <h3 class="heading h3">With <i class="fas fa-heart text-danger px-2"></i> from the Webpixels team</h3>
-      <div class="fluid-paragraph text-center mt-4">
-        <p class="lead lh-180">Working with the most used framework in the world, Bootstrap, we want to extend its
-          functionality and user interface possibilities so you can get even close to the final product, which is your
-          website.</p>
-      </div>
-    </div>
-    <div class="row cols-xs-space cols-sm-space cols-md-space">
-      <div class="col-lg-4">
-        <div class="card">
-          <img src="/img/prv/team-1.jpg" class="card-img-top">
-          <div class="card-body text-center">
-            <h3 class="heading h5 mb-1">
-              <span class="d-block">Alexis Enache</span>
-              <small class="text-muted">Founder and Web Developer</small>
-            </h3>
-            <p class="mt-2">Creator of Boomerang, developer at Webpixels.</p>
-            <a href="https://instagram.com/extrabright" target="_blank" class="btn btn-sm btn-primary">View on
-              Instagram</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="card">
-          <img src="/img/prv/team-2.jpg" class="card-img-top">
-          <div class="card-body text-center">
-            <h3 class="heading h5 mb-1">
-              <span class="d-block">David Wally</span>
-              <small class="text-muted">UI/UX Designer</small>
-            </h3>
-            <p class="mt-2">Design at Webpixels, creator of Boomerang.</p>
-            <a href="https://instagram.com/extrabright" target="_blank" class="btn btn-sm btn-primary">View on
-              Instagram</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="card">
-          <img src="/img/prv/team-3.jpg" class="card-img-top">
-          <div class="card-body text-center">
-            <h3 class="heading h5 mb-1">
-              <span class="d-block">Cliff Simon</span>
-              <small class="text-muted">Front-End Developer</small>
-            </h3>
-            <p class="mt-2">Clean code developer, creator of Boomerang</p>
-            <a href="https://instagram.com/extrabright" target="_blank" class="btn btn-sm btn-primary">View on
-              Instagram</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="slice slice-xl" data-delimiter="1">
-  <div class="container">
-    <div class="row cols-xs-space cols-sm-space align-items-center">
-      <div class="col-md-6 order-md-2 ml-lg-auto">
-        <img src="/img/prv/img-2-1000x900.jpg" class="img-center img-fluid rounded z-depth-3">
-      </div>
-      <div class="col-md-6 col-lg-5 order-md-1">
-        <div class="pr-md-4">
-          <h3 class="heading h3">
-            Documentation and tooling
-          </h3>
-          <p class="lead text-gray mt-4">Every component and plugin is thoroughly documented with live examples and
-            code blocks for easier use and customization—just like Bootstrap itself. Not comfortable diving that deep?
-            No worries, you can get started by double clicking index.html!</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+{{partial "sambutan" . }}
+{{partial "list-acara" . }}
 <section class="slice slice-lg" data-delimiter="1">
   <div class="container">
     <div class="px-4">
@@ -102,18 +10,16 @@
         <div class="col-lg-7">
           <div class="text-center">
             <h1 class="heading h3">
-              Curious about what you get in the FREE version?
+              Jangan Berhenti Menuntut Ilmu, <b>Daftar Sekarang.</b>
             </h1>
             <p class="lead lh-180 mt-4">
-              One thing is for sure. You will be impressed of how much you receive with this free version of Boomerang
-              UI. We offer more than any other UI kit has offered before. This is our way of showing that we are here
-              to deliver, day by day, for a better web experience.
+              Menuntut Ilmu itu adalah Ibadah dan sebuah Kewajiban bagi kita umat Manusia. Tidak ada kata terlambat untuk berbuat kebaikan.
             </p>
             <div class="btn-container mt-5">
-              <a href="#" class="btn btn-primary">
-                Download FREE
+              <a href="/pendaftaran" target="_blank" class="btn text-white bg-indigo">
+                Daftar Sekarang
               </a>
-              <a href="#" class="btn btn-link">See all features</a>
+              <a href="#" class="btn btn-link">Rincian Biaya</a>
             </div>
           </div>
         </div>
@@ -122,67 +28,4 @@
   </div>
 </section>
 
-{{partial "list-acara" . }}
-<section class="slice slice-lg bg-cover bg-size--cover" style="background: url('/img/backgrounds/img-2.jpg') center center;">
-  <div class="mask bg-dark alpha-7"></div>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 ml-lg-auto">
-        <div class="card py-5 px-4 z-depth-3">
-          <div class="card-body">
-            <h2 class="heading h2">
-              <strong>Design</strong> is thinking made visual.
-            </h2>
-            <p class="lead lh-180 mt-4">
-              Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et
-              dolore magna. Ut enim ad minim veniam quis nostrud exercitation.
-            </p>
-            <div class="btn-container mt-5">
-              <a href="#" class="btn btn-lg btn-primary px-5">Our mission</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="slice slice-lg">
-  <div class="container">
-    <div class="mb-md text-center">
-      <h3 class="heading h3">Free updates and support</h3>
-    </div>
-    <div class="row cols-xs-space cols-sm-space cols-md-space">
-      <div class="col-lg-4">
-        <div class="card border-0">
-          <img class="rounded z-depth-3 img-fluid" src="/img/prv/img-3-800x600.jpg" alt="Image description">
-          <div class="pt-4">
-            <h5 class="card-title">Free updates</h5>
-            <p class="card-text">Each theme comes with updates for the life of the theme. This means you'll never pay
-              for any bug-fixes and compatibility upgrades for your theme, ever.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="card border-0">
-          <img class="rounded z-depth-3 img-fluid" src="/img/prv/img-2-800x600.jpg" alt="Image description">
-          <div class="pt-4">
-            <h5 class="card-title">Licenses</h5>
-            <p class="card-text">All our themes have three simple licenses. Free, Multiple and Exteneded Use license
-              are availabled and you can learn more <a href="#">here</a>.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="card border-0">
-          <img class="rounded z-depth-3 img-fluid" src="/img/prv/img-1-800x600.jpg" alt="Image description">
-          <div class="pt-4">
-            <h5 class="card-title">Technical support</h5>
-            <p class="card-text">We're here to help with your Boomerang UI questions. Shoot us an email at
-              support@webpixels.io and we'll get back to you ASAP.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 {{end}}
