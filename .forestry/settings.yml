@@ -9,11 +9,29 @@ sections:
   label: Post
   create: all
   match: "**/*"
+  templates:
+  - new-post
+- type: directory
+  path: content/informasi
+  label: Informasi
+  create: all
+  match: "**/*"
+  templates:
+  - pengumuman
+- type: directory
+  path: content/event
+  label: Acara & Kegiatan
+  create: all
+  match: "**/*"
+  templates:
+  - event
 - type: directory
   path: content
-  label: Pages
+  label: Halaman
   create: all
   match: "*"
+  templates:
+  - halaman
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
