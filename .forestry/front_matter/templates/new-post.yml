@@ -6,7 +6,7 @@ fields:
 - type: file
   name: image
   label: Gambar Atas
-  default: ""
+  default: ''
 - type: text
   label: Judul
   name: title
@@ -45,7 +45,7 @@ fields:
 - type: file
   name: aimage
   label: Foto Penulis
-  default: /favicon.png
+  default: "/favicon.png"
   description: foto harus kotak dan max. ukuran 100px x 100px ya Pak/Bu... :D
 - type: text
   name: type
