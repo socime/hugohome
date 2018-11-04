@@ -14,8 +14,8 @@
                 <a href="{{.RelPermalink}}">
                     <div class="card bg-lighter mb-lg mb-lg-0">
                         <div class="px-3">
-                            <img class="card-img z-depth-2" src="/img/prv/screen-homepage.jpg" style="margin-top: -30px;"
-                                alt="Homapage">
+                            <img class="card-img z-depth-2" src='{{if eq .Params.image "" }}/img/prv/screen-homepage.jpg{{else}}{{.Params.image}}{{end}}' style="margin-top: -30px;"
+                                alt="{{.Title}}">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title mb-2">{{.Title}}</h5>
@@ -23,6 +23,6 @@
                         </div>
                     </div>
                 </a>
-                {{ end }}
             </div>
+            {{ end }}
 </section>
