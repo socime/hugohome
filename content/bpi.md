@@ -2,7 +2,7 @@
 title: Prodi BPI
 type: page
 description: Bimbingan Penyuluhan Islam
-image: ""
+image: ''
 menu:
   main:
     weight: 1

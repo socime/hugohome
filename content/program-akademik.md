@@ -3,7 +3,7 @@ title: Program Akademik
 type: page
 description: Program pendidikan di STID Sirnarasa adalah Program Sarjana (S1). Disinergikan
   dengan program-program unggulan Pesantren di asrama.
-image: ""
+image: ''
 menu:
   main:
     name: Program

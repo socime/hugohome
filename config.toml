@@ -3,16 +3,12 @@ MetaDataFormat = "yaml"
 baseURL = "https://www.stidsirnarasa.ac.id/"
 googleAnalytics = "UA-92294913-1"
 languageCode = "id-id"
-title = "STID Sirnarasa"
 theme = "boomerang"
-
-[params]
-footerTxt = "Terwujudnya Perguruan Tinggi Dakwah berbasis *riset* dalam membentuk Manusia yang sempurna (Insan Kamil) melalui Pendidikan, Penelitian, Pengabdian yang berlandaskan nilai-nilai Sufistik."
-
+title = "STID Sirnarasa"
 [[menu.main]]
-name = "Jadwal Perkuliahan"
-parent = "Program Studi"
-weight = 3
+name = "PROFIL"
+url = "www.stidsirnarasa.ac.id/profil"
+weight = 5
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
@@ -63,3 +59,5 @@ weight = 2
 name = "Akademik"
 url = "/akademik/"
 weight = 1
+[params]
+footerTxt = "Terwujudnya Perguruan Tinggi Dakwah berbasis *riset* dalam membentuk Manusia yang sempurna (Insan Kamil) melalui Pendidikan, Penelitian, Pengabdian yang berlandaskan nilai-nilai Sufistik."

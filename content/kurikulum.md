@@ -1,8 +1,8 @@
 +++
 description = ""
+image = ""
 title = "Kurikulum STID Sirnarasa"
 type = "page"
-image = ""
 [menu.main]
 name = "Kurikulum"
 parent = "Akademik"
