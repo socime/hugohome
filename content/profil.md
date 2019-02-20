@@ -7,6 +7,6 @@ image: ''
 menu:
   main:
     name: Profil
-    weight: 5
+    weight: 6
 
 ---

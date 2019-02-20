@@ -8,7 +8,7 @@ title = "STID Sirnarasa"
 [[menu.main]]
 name = "Download"
 url = "stidsirnarasa.ac.id/download"
-weight = 6
+weight = 5
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
