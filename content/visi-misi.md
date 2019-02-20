@@ -6,7 +6,7 @@ description: Visi Misi Sekolah Tinggi Ilmu Dakwah Sirnarasa
 image: ''
 menu:
   main:
-    weight: 1
+    weight: 2
     parent: Profil
 
 ---

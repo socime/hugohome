@@ -6,7 +6,7 @@ description: Sejarah Sekolah Tinngi Ilmu Dakwah Sirnarasa
 image: ''
 menu:
   main:
-    weight: 2
+    weight: 1
     parent: Profil
 
 ---
