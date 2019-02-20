@@ -6,7 +6,7 @@ description: Badan Eksekutif Mahasiswa STID Sirnarasa
 image: ''
 menu:
   main:
-    weight: 1
+    weight: 2
     parent: Kemahasiswaan
 
 ---

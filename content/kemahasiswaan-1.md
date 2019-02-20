@@ -6,6 +6,6 @@ description: Kegiatan Mahasiswa Sekolah Tinggi Ilmu Dakwah Sirnarasa
 image: ''
 menu:
   main:
-    weight: 7
+    weight: 6
 
 ---

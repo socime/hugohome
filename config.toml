@@ -6,9 +6,14 @@ languageCode = "id-id"
 theme = "boomerang"
 title = "STID Sirnarasa"
 [[menu.main]]
+name = "UKM"
+parent = "Kemahasiswaan"
+url = "https://ukm.stidsirnarasa.ac.id/"
+weight = 1
+[[menu.main]]
 name = "Download"
 url = "stidsirnarasa.ac.id/download"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
@@ -43,10 +48,6 @@ name = "Jurnalistik"
 parent = "UKM"
 url = "http://jurnalistik.stidsirnarasa.ac.id"
 weight = 1
-[[menu.main]]
-name = "UKM"
-url = "https://ukm.stidsirnarasa.ac.id/"
-weight = 4
 [[menu.main]]
 name = "Publikasi"
 url = "/post/"

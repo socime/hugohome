@@ -6,7 +6,7 @@ description: Alumni Sekolah Tinggi Ilmu Dakwah SIrnarasa
 image: ''
 menu:
   main:
-    weight: 3
+    weight: 4
     parent: Kemahasiswaan
 
 ---
