@@ -6,6 +6,10 @@ languageCode = "id-id"
 theme = "boomerang"
 title = "STID Sirnarasa"
 [[menu.main]]
+name = "Download"
+url = "/download/"
+weight = 4
+[[menu.main]]
 name = "UKM"
 parent = "Kemahasiswaan"
 url = "https://ukm.stidsirnarasa.ac.id/"
