@@ -6,6 +6,10 @@ languageCode = "id-id"
 theme = "boomerang"
 title = "STID Sirnarasa"
 [[menu.main]]
+name = "Profil"
+url = "www.stidsirnarasa.ac.id/profil"
+weight = 5
+[[menu.main]]
 name = "Jamiatul Quro"
 parent = "UKM"
 url = "#"
