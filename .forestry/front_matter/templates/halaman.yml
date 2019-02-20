@@ -38,6 +38,7 @@ fields:
     maxSize: '3'
 pages:
 - content/ukm.md
+- content/struktur.md
 - content/profil.md
 - content/visi-misi.md
 - content/sejarah.md
